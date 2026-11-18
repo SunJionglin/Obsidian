@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "230d25995e3448dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "91192b4e054d7f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7c649fb163d945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "函数提高.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数提高"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46d701fb2b6e0adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "616b3e6758fd686a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "429651e9b292451c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "867cc9ef2cf3145a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "858eff5f1b559599",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aa072d436b2cf81",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b65329f44be1a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e862c7645da12256",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "程序流程结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "程序流程结构 的反向链接列表"
+            }
+          },
+          {
+            "id": "fb767af6bde12ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "程序流程结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "程序流程结构 的出链列表"
+            }
+          },
+          {
+            "id": "d641321664e9d481",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "de255b374f658cfb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c348de19e87bba8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "程序流程结构.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "程序流程结构 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "6a7c649fb163d945",
+  "lastOpenFiles": [
+    "类和对象.md",
+    "C++头文件.md",
+    "指针.md",
+    "程序流程结构.md",
+    "未命名.md",
+    "内存分区.md",
+    "函数的分文件编写.md",
+    "运算符.md"
+  ]
+}
