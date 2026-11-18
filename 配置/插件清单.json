@@ -1,0 +1,92 @@
+[
+  {
+    "id": "obsidian-excalidraw-plugin",
+    "name": "Excalidraw",
+    "version": "2.29.0",
+    "author": "Zsolt Viczian",
+    "dir": "obsidian-excalidraw-plugin",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "dataview",
+    "name": "Dataview",
+    "version": "0.5.68",
+    "author": "Michael Brenan <blacksmithgu@gmail.com>",
+    "dir": "dataview",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "table-editor-obsidian",
+    "name": "Advanced Tables",
+    "version": "0.23.2",
+    "author": "Tony Grosinger",
+    "dir": "table-editor-obsidian",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "obsidian-linter",
+    "name": "Linter",
+    "version": "1.34.2",
+    "author": "Victor Tao",
+    "dir": "obsidian-linter",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "obsidian-spaced-repetition",
+    "name": "Spaced Repetition",
+    "version": "1.15.4",
+    "author": "Stephen Mwangi",
+    "dir": "obsidian-spaced-repetition",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "agent-client",
+    "name": "智能体客户端（Agent Client）",
+    "version": "0.13.0",
+    "author": "RAIT-09",
+    "dir": "agent-client",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "custom-sort",
+    "name": "Custom File Explorer sorting",
+    "version": "3.2.0",
+    "author": "SebastianMC",
+    "dir": "custom-sort",
+    "enabled": true,
+    "hasData": true
+  },
+  {
+    "id": "table-checkbox-renderer",
+    "name": "Table Checkbox Renderer",
+    "version": "1.0.2",
+    "author": "Daniel Aguerrevere",
+    "dir": "table-checkbox-renderer",
+    "enabled": true,
+    "hasData": false
+  },
+  {
+    "id": "obsidian42-brat",
+    "name": "BRAT",
+    "version": "1.2.0",
+    "author": "TfTHacker",
+    "dir": "obsidian42-brat",
+    "enabled": true,
+    "hasData": false
+  },
+  {
+    "id": "obsidian-style-settings",
+    "name": "Style Settings",
+    "version": "1.0.9",
+    "author": "mgmeyers",
+    "dir": "style-settings",
+    "enabled": true,
+    "hasData": false
+  }
+]

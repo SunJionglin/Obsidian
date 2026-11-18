@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "实践": "date",
+    "日期": "date",
+    "date": "date"
+  }
+}
